@@ -1,0 +1,5 @@
+room1; X; room2; X; X; X; True; X; X;
+room2; X; X; X; room1; X; X; X; True;
+room3; X; X; room2; room4; X; X; True; True;
+room4; room3; X; room5; X; True; X; True; X;
+room5; room4; X; X; X; True; X; X; X;

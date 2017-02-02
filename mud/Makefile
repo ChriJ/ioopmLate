@@ -1,5 +1,5 @@
 all:
-	javac -Xlint:unchecked -g GM.java Room.java
+	javac -Xlint:unchecked -g GM.java Room.java Avatar.java
 clean:
 	rm -f *~
 	rm -f *#
